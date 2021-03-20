@@ -47,7 +47,7 @@
 
 * {
   margin: 0;
-  padding: 0;
+  padding: 20px;
   box-sizing: border-box;
   font-family: "EB Garamond", serif;
   transition: 0.2s ease-in-out;
